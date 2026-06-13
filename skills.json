@@ -1,0 +1,13 @@
+{
+  "skills": {
+    "last30days": {
+      "version": "3.3.2",
+      "description": "Research what people actually say about any topic in the last 30 days. Pulls posts and engagement from Reddit, X, YouTube, TikTok, Hacker News, Polymarket, GitHub, and the web.",
+      "source": "mvanhorn/last30days-skill",
+      "branch": "main",
+      "path": "skills/last30days",
+      "homepage": "https://github.com/mvanhorn/last30days-skill",
+      "installed_at": "2026-06-13T07:03:41Z"
+    }
+  }
+}
