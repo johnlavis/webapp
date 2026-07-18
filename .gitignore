@@ -1,9 +1,12 @@
+*.csv
 *_b64.txt
 479_Field_Visit_Form.xlsx
 Field_Rep_Database.xlsx
 FilledForms/
 IATSE_479_Field_Visit_Form_drive.xlsx
+READ_ME_claude_7-17-26.md
 Sample_Field_Visit_Report.pdf
+aligned_master_db.csv
 out.txt
 page1.png
 page2.png
